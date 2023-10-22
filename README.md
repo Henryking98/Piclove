@@ -1,10 +1,10 @@
 # Piclove - Share and Discover Beautiful Images
 
 ### [Live Site](https://piclove.netlify.app/)
-  ![PWA Weateher App](https://i.ibb.co/YPvh2cL/homepage.png)
+  ![Piclove Social Media App](https://i.ibb.co/YPvh2cL/homepage.png)
 
 ##  Introduction
-    Piclove Web App
+    Piclove Social Media App
     PicLove, your creative haven for all things visual! PicLove is your go-to platform 
     where you can seamlessly share, discover, comment, save, and download captivating images. 
     Join now and unlock a world of inspiration, one image at a time. Start your journey with PicLove;
